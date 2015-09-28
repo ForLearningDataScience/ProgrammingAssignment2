@@ -1,3 +1,8 @@
+# cachematrix.R
+# Jasmine Mou
+# 2015-09-27
+# Github link: https://github.com/ForLearningDataScience/ProgrammingAssignment2
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
