@@ -1,3 +1,5 @@
+This is the README file for R Programming's Programming Assignment 2 on Coursera. 
+
 ### Introduction
 
 This second programming assignment will require you to write an R
