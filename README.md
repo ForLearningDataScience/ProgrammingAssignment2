@@ -1,4 +1,5 @@
-This is the README file for R Programming's Programming Assignment 2 on Coursera. 
+This is the README.md file for R Programming's Programming Assignment 2 on Coursera. 
+The README.md file is adapted from the original assignment requirements. 
 
 ### Introduction
 
